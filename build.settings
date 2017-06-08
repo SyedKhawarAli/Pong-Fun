@@ -73,7 +73,7 @@ settings =
 	--
 	android =
 	{
-		googlePlayGamesAppId = "629741712156",  --long App ID number (use yours!)
+		googlePlayGamesAppId = "XXXXXXXXXXXX",  --long App ID number (use yours!)
 		usesPermissions =
 		{
 			    "android.permission.INTERNET",
